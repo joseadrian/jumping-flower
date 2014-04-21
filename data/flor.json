@@ -1,0 +1,11 @@
+{
+        "flor":
+        {
+            "sx":0,
+            "sy":0,
+            "cols":2,
+            "tilew":42,
+            "tileh":68,
+            "frames":2
+        }
+}
