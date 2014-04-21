@@ -1,0 +1,76 @@
+{
+    
+        "enemigo-1.png": {
+            "tilew":16,
+            "tileH":16,
+            "sx": 2,
+            "sy": 192,
+            "w": 40,
+            "h": 58
+        }, 
+    
+        "enemigo-2.png": {
+            "tilew":16,
+            "tileH":16,
+            "sx": 2,
+            "sy": 132,
+            "w": 40,
+            "h": 58
+        }, 
+    
+        "enemigo-3.png": {
+            "tilew":16,
+            "tileH":16,
+            "sx": 2,
+            "sy": 72,
+            "w": 40,
+            "h": 58
+        }, 
+    
+        "flor.png": {
+            "tilew":42,
+            "tileH":68,
+            "sx": 2,
+            "sy": 2,
+            "w": 42,
+            "h": 68
+        }, 
+    
+        "hojaL.png": {
+            "tilew":16,
+            "tileH":16,
+            "sx": 44,
+            "sy": 120,
+            "w": 18,
+            "h": 14
+        }, 
+    
+        "hojaR.png": {
+            "tilew":16,
+            "tileH":16,
+            "sx": 44,
+            "sy": 104,
+            "w": 18,
+            "h": 14
+        }, 
+    
+        "petaloL.png": {
+            "tilew":16,
+            "tileH":16,
+            "sx": 44,
+            "sy": 88,
+            "w": 18,
+            "h": 14
+        }, 
+    
+        "petaloR.png": {
+            "tilew":16,
+            "tileH":16,
+            "sx": 44,
+            "sy": 72,
+            "w": 18,
+            "h": 14
+        }
+    
+
+}

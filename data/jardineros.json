@@ -1,0 +1,31 @@
+{
+    
+        "jardinero-1": {
+            "tilew":40,
+            "tileH":58,
+            "sx": 2,
+            "sy": 2,
+            "w": 40,
+            "h": 58
+        }, 
+    
+        "jardinero-2": {
+            "tilew":40,
+            "tileH":58,
+            "sx": 44,
+            "sy": 2,
+            "w": 40,
+            "h": 58
+        }, 
+    
+        "jardinero-3": {
+            "tilew":40,
+            "tileH":58,
+            "sx": 86,
+            "sy": 2,
+            "w": 40,
+            "h": 58
+        }
+    
+
+}
