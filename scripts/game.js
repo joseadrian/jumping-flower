@@ -52,7 +52,7 @@ window.addEventListener("load",function() {
 		watered: function(col) {
 			if(col.obj.isA('Gardener')) {
 				this.destroy();
-				Q.audio.play('choque.ogg');
+				Q.audio.play('choque.mp3');
 				setTimeout(function() {
 					Q.stageScene('game');
 				}, 1000);
@@ -67,7 +67,7 @@ window.addEventListener("load",function() {
 
 				var coin = new Q.Coin({ x: col.obj.p.x, y: col.obj.p.y });
 				this.stage.insert(coin);
-				Q.audio.play('coin.ogg');
+				Q.audio.play('coin.mp3');
 
 				setTimeout(function() {
 					coin.destroy();
@@ -101,7 +101,7 @@ window.addEventListener("load",function() {
 			if((Q.inputs['left'] || Q.inputs['right']) && this.p.landed > 0){
 				this.p.vy = -400;
 				this.p.vx = (Q.inputs['left'] ? -1 : 1 )* 50;
-				Q.audio.play('jump.ogg');
+				Q.audio.play('jump.mp3');
 			}
 		}
 	});
@@ -269,7 +269,7 @@ window.addEventListener("load",function() {
 		// Images
 		, 'jardineros.png', 'leafs.png','flor.png','coins.png', 'title.png', 'btn-start.png'
 		// Audio
-		, 'choque.ogg', 'coin.ogg', 'coin_pickup.ogg', 'jump.ogg', 'jump_gardener.ogg', 'leaf.ogg'
+		, 'choque.mp3', 'coin.mp3', 'coin_pickup.mp3', 'jump.mp3', 'jump_gardener.mp3', 'leaf.mp3'
 		// Data
 		, 'jardineros.json', 'leafs.json', 'flor.json', 'coins.json']
 		, function() {
