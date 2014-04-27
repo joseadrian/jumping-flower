@@ -158,7 +158,7 @@ window.addEventListener("load",function() {
     }
   });
 
-  var coins = [0.5, 0.2, 5, 1, 0.2, 0.1]; // '10c', '20c', '50c', '1s', '2s', '5s']
+  var coins = [0.5, 0.2, 5, 1, 2, 0.1]; // '10c', '20c', '50c', '1s', '2s', '5s']
   Q.Sprite.extend('Coin', {
     init: function(p) {
       var coin =  Math.round(Math.random() * 4 + 1);
