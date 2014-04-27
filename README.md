@@ -10,7 +10,7 @@ To do
 
 - Organize code and comment it
 - Use the buttons A and B for shooting leafs
-- Let the flower move while on the air
+- --Let the flower move while on the air--
 - Add walk animation to the enemies
 - Change *.tmx map for a simple image.
 - Make a difference between sprite types. 
