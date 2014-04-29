@@ -5,6 +5,9 @@ I created this little game to learn [Quintus game engine](http://html5quintus.co
 
 ![Screenshot](images/screenshot.png)
 
+[Play it](http://joseadrian.github.io/jumping-flower)
+========
+
 To do
 =====
 
